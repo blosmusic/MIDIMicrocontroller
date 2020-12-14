@@ -1,5 +1,5 @@
 # BLOS MIDI Microcontroller
-MIDI Microcontroller designed for use as a guitar pedalboard. The device can be set-up to control FX and parameters in any DAW.
+A MIDI Microcontroller designed for use as a guitar pedalboard. The device can be set-up to control FX and parameters in any DAW.
 
 ### Installation
 
@@ -7,7 +7,7 @@ Copy the accompanying code into a Teensyduino IDE window.
 
 Ensure the relevant sections for LED's, buttons, pontentiometers are filled out in-line with your device and pins used.
 
-NOTE: Set the Teensy 'USB type' to MIDI and 'Board' to match your Teensy.
+NOTE: Set the Teensy 'USB type: ' to MIDI and 'Board: ' to match your Teensy.
 
 ### General
 
@@ -20,7 +20,6 @@ A full demonstration as well as set-up tutorials are available on [YouTube](http
 ### CONTRIBUTING
 
 If you would like to contribute to this repository, please contact me first via [email](hi@benlambosullivan.com).
-This repository does not include the builds folder for JUCE, as such contributions would need to be built via Projucer first.
 
 ### LICENSE
 

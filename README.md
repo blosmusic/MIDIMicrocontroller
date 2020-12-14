@@ -15,7 +15,7 @@ This code will require the user to have a Teensy powered device and can be used 
 
 ### Demo
 
-A full demonstration as well as set-up tutorials are available on [YouTube] (https://www.youtube.com/playlist?list=PL8b-iIuZnsuHdSlI87MPCy8BHiq67Olw1)
+A full demonstration as well as set-up tutorials are available on [YouTube](https://www.youtube.com/playlist?list=PL8b-iIuZnsuHdSlI87MPCy8BHiq67Olw1)
 
 ### CONTRIBUTING
 
@@ -30,4 +30,6 @@ This project was developed under the [General Public License (GNU)](https://www.
 The microcontroller was developed as part of the [Masters in Music Technology](https://www.dkit.ie/courses/school-of-informatics-and-creative-arts/creative-arts-media-and-music/ma/msc-in-music-technology.html) in Dundalk Institute of Technology, Ireland.
 
 Special thanks to project supervisor Sean Keegan for his help & input.
+
+
 
